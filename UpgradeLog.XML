@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SimonSays">
+</Property><Property Name="Solution File" Value="D:\OLDDATA\Proyectos .NET\SimonSays\SimonSays.sln">
+</Property><Property Name="User Options File" Value="D:\OLDDATA\Proyectos .NET\SimonSays\SimonSays.suo">
+</Property><Property Name="Date" Value="jueves, 19 de agosto de 2010">
+</Property><Property Name="Time" Value="20:24 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SimonSays.sln" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SimonSays.suo" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays.suo">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\SimonSays.vbproj" Description="Project file successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\SimonSays.vbproj">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\SimonSays.vbproj.user" Description="Project user file successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\SimonSays.vbproj.user">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\AboutBox.Designer.vb" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\AboutBox.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\AboutBox.vb" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\AboutBox.vb">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\HighScores.Designer.vb" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\HighScores.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\HighScores.vb" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\HighScores.vb">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\My Project\Application.Designer.vb" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Scores.vb" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Scores.vb">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Settings.vb" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Settings.vb">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\SimonGame.Designer.vb" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\SimonGame.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\SimonGame.vb" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\SimonGame.vb">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\app.config" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\app.config">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\My Project\Application.myapp" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\My Project\Settings.settings" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\blankImage.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\blankImage.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\ledBlueOff.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\ledBlueOff.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\ledBlueOn.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\ledBlueOn.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\ledGreenOn.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\ledGreenOn.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\ledGreenOff.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\ledGreenOff.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\ledRedOff.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\ledRedOff.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\ledRedOn.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\ledRedOn.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\ledYellowOff.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\ledYellowOff.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\ledYellowOn.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\ledYellowOn.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\ledOrangeOff.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\ledOrangeOff.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\ledOrangeOn.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\ledOrangeOn.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\ledCyanOn.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\ledCyanOn.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\ledCyanOff.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\ledCyanOff.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\ledPinkOff.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\ledPinkOff.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\ledPinkOn.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\ledPinkOn.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\ledPurpleOff.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\ledPurpleOff.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\ledPurpleOn.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\ledPurpleOn.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\ledWhiteOff.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\ledWhiteOff.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\ledWhiteOn.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\ledWhiteOn.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\scores.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\scores.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\icon.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\icon.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\help.png" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\help.png">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\icon.ico" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\icon.ico">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\Resources\help.ico" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\Resources\help.ico">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\AboutBox.resx" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\AboutBox.resx">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\HighScores.resx" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\HighScores.resx">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\My Project\Resources.resx" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\SimonGame.resx" Description="File successfully backed up as D:\OLDDATA\Proyectos .NET\SimonSays\Backup\SimonSays\SimonGame.resx">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\SimonSays.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SimonSays" Source="SimonSays\SimonSays.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SimonSays.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SimonSays.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SimonSays" Source="SimonSays\SimonSays.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

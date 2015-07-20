@@ -1,0 +1,18 @@
+D:\Users\L01204024\Documents\Visual Studio 2010\Projects\SimonSays\SimonSaysWP7\SimonSaysWP7\bin\Windows Phone\Debug\SimonSaysWP7.dll
+D:\Users\L01204024\Documents\Visual Studio 2010\Projects\SimonSays\SimonSaysWP7\SimonSaysWP7\bin\Windows Phone\Debug\SimonSaysWP7.pdb
+D:\Users\L01204024\Documents\Visual Studio 2010\Projects\SimonSays\SimonSaysWP7\SimonSaysWP7\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+D:\Users\L01204024\Documents\Visual Studio 2010\Projects\SimonSays\SimonSaysWP7\SimonSaysWP7\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\L01204024\Documents\Visual Studio 2010\Projects\SimonSays\SimonSaysWP7\SimonSaysWP7\obj\Windows Phone\Debug\SimonSaysWP7.dll
+D:\Users\L01204024\Documents\Visual Studio 2010\Projects\SimonSays\SimonSaysWP7\SimonSaysWP7\obj\Windows Phone\Debug\SimonSaysWP7.pdb
+D:\Users\L01204024\Documents\Visual Studio 2010\Projects\SimonSays\SimonSaysWP7\SimonSaysWP7\bin\Windows Phone\Debug\AppManifest.xaml
+D:\Users\L01204024\Documents\Visual Studio 2010\Projects\SimonSays\SimonSaysWP7\SimonSaysWP7\obj\Windows Phone\Debug\WMAppManifest.xml.g
+D:\Users\L01204024\Documents\Visual Studio 2010\Projects\SimonSays\SimonSaysWP7\SimonSaysWP7\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\GameThumbnail.png
+D:\Users\L01204024\Documents\Visual Studio 2010\Projects\SimonSays\SimonSaysWP7\SimonSaysWP7\bin\Windows Phone\Debug\SimonSaysWP7.xap
+D:\Users\L01204024\Documents\Visual Studio 2010\Projects\SimonSays\SimonSaysWP7\SimonSaysWP7\obj\Windows Phone\Debug\XapCacheFile.xml
+D:\Users\L01204024\Documents\Visual Studio 2010\Projects\SimonSays\SimonSaysWP7\SimonSaysWP7\bin\Windows Phone\Debug\SimonSaysWP7.xap
+D:\Users\L01204024\Documents\Visual Studio 2010\Projects\SimonSays\SimonSaysWP7\SimonSaysWP7\obj\Windows Phone\Debug\XapCacheFile.xml
+D:\Users\L01204024\Documents\Visual Studio 2010\Projects\SimonSays\SimonSaysWP7\SimonSaysWP7\bin\Windows Phone\Debug\AppManifest.xaml
+D:\Users\L01204024\Documents\Visual Studio 2010\Projects\SimonSays\SimonSaysWP7\SimonSaysWP7\obj\Windows Phone\Debug\WMAppManifest.xml.g
+D:\Users\L01204024\Documents\Visual Studio 2010\Projects\SimonSays\SimonSaysWP7\SimonSaysWP7\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\GameThumbnail.png

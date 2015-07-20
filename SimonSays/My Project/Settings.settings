@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Player1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Simon</Value>
+    </Setting>
+    <Setting Name="Player2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Simon</Value>
+    </Setting>
+    <Setting Name="Score2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="Player3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Simon</Value>
+    </Setting>
+    <Setting Name="Score3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="Player4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Simon</Value>
+    </Setting>
+    <Setting Name="Score4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="Player5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Simon</Value>
+    </Setting>
+    <Setting Name="Score5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="Score1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
